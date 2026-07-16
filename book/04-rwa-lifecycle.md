@@ -71,6 +71,39 @@ Originator tidak datang ke tokenisasi karena teknologi. Mereka datang karena mas
 
 **Yang tidak boleh Anda lakukan:** Jangan menjanjikan kecepatan yang tidak realistis. Proyek pertama minimum 6 bulan. Jangan menjanjikan bahwa tokenisasi pasti mendapat persetujuan bursa.
 
+### Paradoks Biaya Persiapan RWA
+
+Tiga langkah pertama di atas — uji tuntas hukum, valuasi KJPP, audit kontrak pintar — secara regulasi masuk akal. Namun jika dilihat dari kacamata bisnis dan janji utama blockchain, angka Rp500 juta hingga Rp2 miliar untuk biaya persiapan adalah paradoks yang bisa membunuh industri RWA di Indonesia sebelum berkembang.
+
+**1. Ilusi "Demokratisasi" dan Pemotongan Perantara**
+
+Narasi utama tokenisasi dan blockchain adalah memotong perantara untuk menekan biaya dan mendemokratisasi akses investasi. Namun kenyataannya, tokenisasi RWA justru menambahkan perantara baru — auditor kontrak pintar, platform tokenisasi, kustodian digital — di atas perantara tradisional yang sudah ada: KJPP, notaris, konsultan hukum, OJK.
+
+Proses ini tidak lebih efisien dari penerbitan DIRE (Dana Investasi Real Estat) atau KIK-EBA tradisional. Alih-alih memotong biaya, originator justru menanggung beban ganda: sistem tradisional ditambah sistem Web3.
+
+**2. Batas Minimum Skala Ekonomi**
+
+Jika biaya persiapan mencapai Rp2 miliar, menokenisasi aset bernilai Rp10 miliar menjadi tidak rasional — biaya persiapan menyedot 20% dari nilai aset. Originator aset kelas menengah (UKM, properti menengah) akan mundur dan memilih meminjam ke bank yang biaya provisi dan administrasinya sekitar 1–2%.
+
+Tokenisasi pada akhirnya hanya menjadi arena eksklusif bagi aset raksasa di atas Rp100 miliar — ironisnya berlawanan dengan semangat awal RWA yang justru ingin membuka akses ke aset-aset *niche* dan menengah.
+
+**3. Risiko Likuiditas yang Belum Teruji**
+
+Originator diminta membayar biaya persiapan besar di muka untuk mengakses pasar sekunder kripto di Indonesia (CFX/ICEX). Namun berbeda dengan Bursa Efek Indonesia yang likuiditasnya triliunan rupiah per hari, pasar sekunder untuk token sekuritas/RWA di Indonesia saat ini masih belum teruji likuiditasnya.
+
+Jika originator menghabiskan Rp2 miliar untuk persiapan, tetapi token tidak laku saat penerbitan perdana atau tidak ada volume perdagangan di pasar sekunder, originator mengalami kerugian fatal.
+
+**Implikasi untuk Strategi Anda:**
+
+Jika industri RWA Indonesia ingin bertahan, ekosistem harus menemukan cara menekan biaya persiapan. Beberapa jalur yang dapat ditempuh:
+
+- **Standardisasi draf hukum** — templating perjanjian SPV, perjanjian penerbitan, dan opini hukum sehingga tidak perlu *from scratch* setiap proyek.
+- **Model penilaian otomatis (AVM)** untuk aset standar — properti residensial di kawasan tertentu dapat dinilai dengan algoritma, bukan KJPP full appraisal.
+- **Subsidi atau keringanan biaya dari bursa/regulator** — *regulatory sandbox* OJK dapat menjadi laboratorium untuk menekan biaya kepatuhan.
+- **Agregasi aset** — menggabungkan beberapa aset kecil dalam satu SPV sehingga biaya persiapan terbagi (lihat juga: *fractional ownership* dari portofolio, bukan aset tunggal).
+
+Paradoks ini belum memiliki jawaban di Indonesia pada Juli 2026. Founder yang berhasil adalah yang menemukan model bisnis untuk memecahkannya — bukan yang mengabaikannya.
+
 ### Dokumen yang Wajib Anda Kumpulkan pada Tahap Ini
 
 | Dokumen | Fungsi |
